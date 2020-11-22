@@ -1,0 +1,74 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Nov 22 22:42:13 2020
+[*]
+[dumpfile] "C:\Users\vema3\OneDrive\Documents\GitHub\Proyecto_uP_1\uP_tb.vcd"
+[dumpfile_mtime] "Sun Nov 22 20:24:29 2020"
+[dumpfile_size] 42146
+[savefile] "C:\Users\vema3\OneDrive\Documents\GitHub\Proyecto_uP_1\uP_tb.gtkw"
+[timestart] 0
+[size] 863 600
+[pos] 158 35
+*-4.034510 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.uP_proyecto.
+[sst_width] 197
+[signals_width] 238
+[sst_expanded] 1
+[sst_vpaned_height] 150
+@28
+testbench.clock
+testbench.phase
+@22
+[color] 3
+testbench.PC[11:0]
+@28
+[color] 2
+testbench.uP_proyecto.counter.Load
+@22
+testbench.uP_proyecto.control_signals[12:0]
+[color] 5
+testbench.uP_proyecto.address_RAM[11:0]
+testbench.uP_proyecto.RAM.data[3:0]
+[color] 2
+testbench.uP_proyecto.program_byte[7:0]
+[color] 7
+testbench.uP_proyecto.instr[3:0]
+@c00022
+[color] 7
+testbench.uP_proyecto.oprnd[3:0]
+@28
+(0)testbench.uP_proyecto.oprnd[3:0]
+(1)testbench.uP_proyecto.oprnd[3:0]
+(2)testbench.uP_proyecto.oprnd[3:0]
+(3)testbench.uP_proyecto.oprnd[3:0]
+@1401200
+-group_end
+@22
+testbench.uP_proyecto.data_bus[3:0]
+[color] 3
+testbench.uP_proyecto.accu[3:0]
+@23
+testbench.uP_proyecto.ALU.Y[3:0]
+@28
+[color] 6
+testbench.uP_proyecto.c_flag
+[color] 2
+testbench.uP_proyecto.z_flag
+[color] 3
+testbench.uP_proyecto.Bus_Driver1.enable
+testbench.uP_proyecto.Bus_Driver2.enable
+[color] 5
+testbench.uP_proyecto.Out.enable
+@22
+testbench.uP_proyecto.FF_out[3:0]
+@28
+[color] 7
+testbench.uP_proyecto.In.enable
+@22
+testbench.uP_proyecto.pushbuttons[3:0]
+@28
+testbench.uP_proyecto.RAM.write
+testbench.uP_proyecto.RAM.enable
+[pattern_trace] 1
+[pattern_trace] 0

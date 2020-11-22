@@ -1,3 +1,7 @@
+/* Margareth Vela
+Carné 19458
+Sección: 20
+*/
 //Program counter
 module counter(input wire clk, rst, enable, Load, input wire [11:0] Ld, output reg [11:0] PC);
   always @ (posedge clk, posedge rst) begin
@@ -71,7 +75,7 @@ endmodule
 
 //FF tipo D de 1 bit
 module FF_D(input wire clock, reset, enable, d, output reg Y);
-  always @ (posedge clock, posedge reset, posedge enable) begin
+  always @ (posedge clock, posedge reset) begin
     if(reset) begin
       Y <= 1'b0;
     end
